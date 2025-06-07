@@ -1,13 +1,13 @@
 [
   {
     "status": "on",
-    "txt": "24-Hour Free Trial"
+    "txt": "20-Hour Free Trial"
   },
   {
     "status": "on",
-    "txt": "30 Day | $15",
-    "price": "15",
-    "days": "30"
+    "txt": "31 Day | $16",
+    "price": "16",
+    "days": "31"
   },
   {
     "status": "on",
